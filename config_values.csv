@@ -1,0 +1,16 @@
+config,value
+prefix,Etch_CP
+subfolder,test
+comment,hellothere
+output directory,ccc
+iso,Auto
+tv,Auto
+av,Auto
+size_quality,Small
+exposure_compensation,N/A
+metering_mode,Evaluative
+drive_mode,Single shot
+picture_style,Auto
+white_balance,Auto
+kelvin,1000
+mirror_lockup,0

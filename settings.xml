@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<dslr_remote_pro_multi>
+  <prefix>Etch_CP</prefix>
+  <subfolder>test</subfolder>
+  <comment>hellothere</comment>
+  <output_directory>ccc</output_directory>
+  <camera id="*" gang_settings="1">
+    <iso>Auto</iso>
+    <tv>Auto</tv>
+    <av>Auto</av>
+    <size_quality>Small</size_quality>
+    <exposure_compensation>N/A</exposure_compensation>
+    <metering_mode>Evaluative</metering_mode>
+    <drive_mode>Single shot</drive_mode>
+    <picture_style>Auto</picture_style>
+    <white_balance>Auto</white_balance>
+    <kelvin>1000</kelvin>
+    <mirror_lockup>0</mirror_lockup>
+  </camera>
+</dslr_remote_pro_multi>
